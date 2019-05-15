@@ -18,7 +18,7 @@ let a1 =  prompt ( " Введите обязательную статью рас
 alert(appData.costs.а1 = a2);
 alert(appData.costs.а3 = a4);
 alert(parseInt(money) / 30);
-
+// вроде готово
 
 
 
